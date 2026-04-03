@@ -1,0 +1,7 @@
+{
+  "name": "Pelham Heating & Air Conditioning",
+  "description": "High-converting HVAC service website for Pelham Heating & Air Conditioning in Stamford, CT. Focused on emergency repairs, maintenance, and installations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
